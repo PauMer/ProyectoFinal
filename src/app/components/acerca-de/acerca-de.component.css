@@ -2,8 +2,9 @@
     padding: 20px;
 }
 div{
-    background-color: #a1b5cb;
+    background-color: #52796f;
     text-align: center;
+    color: #e1ebe6;
 }
 
 /*Estilo foto de perfil */
@@ -12,9 +13,9 @@ div{
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px gray;
+        box-shadow: 3px 3px 3px #2f3e46;
         left: 3%;
-        top: 600px;
+        top: 370px;
     }
 }
 
@@ -23,9 +24,9 @@ div{
         position: absolute;
         width: 30%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px gray;
+        box-shadow: 3px 3px 3px #2f3e46;
         left: 33%;
-        top: 630px;
+        top: 150px;
     }
 }
 
